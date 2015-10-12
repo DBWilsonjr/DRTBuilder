@@ -1,0 +1,40 @@
+D:\Save\School\CPT 185\Dungeon-Rush-Team-Builder\Dungeon-Rush-Team-Builder\bin\Debug\Dungeon-Rush-Team-Builder.exe.config
+D:\Save\School\CPT 185\Dungeon-Rush-Team-Builder\Dungeon-Rush-Team-Builder\bin\Debug\Creature Database.accdb
+D:\Save\School\CPT 185\Dungeon-Rush-Team-Builder\Dungeon-Rush-Team-Builder\bin\Debug\Dungeon-Rush-Team-Builder.exe
+D:\Save\School\CPT 185\Dungeon-Rush-Team-Builder\Dungeon-Rush-Team-Builder\bin\Debug\Dungeon-Rush-Team-Builder.pdb
+D:\Save\School\CPT 185\Dungeon-Rush-Team-Builder\Dungeon-Rush-Team-Builder\obj\Debug\Dungeon-Rush-Team-Builder.csprojResolveAssemblyReference.cache
+D:\Save\School\CPT 185\Dungeon-Rush-Team-Builder\Dungeon-Rush-Team-Builder\obj\Debug\Dungeon_Rush_Team_Builder.Form1.resources
+D:\Save\School\CPT 185\Dungeon-Rush-Team-Builder\Dungeon-Rush-Team-Builder\obj\Debug\Dungeon_Rush_Team_Builder.Properties.Resources.resources
+D:\Save\School\CPT 185\Dungeon-Rush-Team-Builder\Dungeon-Rush-Team-Builder\obj\Debug\Dungeon-Rush-Team-Builder.csproj.GenerateResource.Cache
+D:\Save\School\CPT 185\Dungeon-Rush-Team-Builder\Dungeon-Rush-Team-Builder\obj\Debug\Dungeon-Rush-Team-Builder.exe
+D:\Save\School\CPT 185\Dungeon-Rush-Team-Builder\Dungeon-Rush-Team-Builder\obj\Debug\Dungeon-Rush-Team-Builder.pdb
+E:\CPT 185\Dungeon-Rush-Team-Builder\Dungeon-Rush-Team-Builder\bin\Debug\Dungeon-Rush-Team-Builder.exe.config
+E:\CPT 185\Dungeon-Rush-Team-Builder\Dungeon-Rush-Team-Builder\obj\Debug\Dungeon-Rush-Team-Builder.exe
+E:\CPT 185\Dungeon-Rush-Team-Builder\Dungeon-Rush-Team-Builder\obj\Debug\Dungeon-Rush-Team-Builder.pdb
+E:\CPT 185\Dungeon-Rush-Team-Builder\Dungeon-Rush-Team-Builder\bin\Debug\Creature Database.accdb
+E:\CPT 185\Dungeon-Rush-Team-Builder\Dungeon-Rush-Team-Builder\bin\Debug\Dungeon-Rush-Team-Builder.exe
+E:\CPT 185\Dungeon-Rush-Team-Builder\Dungeon-Rush-Team-Builder\bin\Debug\Dungeon-Rush-Team-Builder.pdb
+E:\CPT 185\Dungeon-Rush-Team-Builder\Dungeon-Rush-Team-Builder\obj\Debug\Dungeon-Rush-Team-Builder.csprojResolveAssemblyReference.cache
+E:\CPT 185\Dungeon-Rush-Team-Builder\Dungeon-Rush-Team-Builder\obj\Debug\Dungeon_Rush_Team_Builder.Form1.resources
+E:\CPT 185\Dungeon-Rush-Team-Builder\Dungeon-Rush-Team-Builder\obj\Debug\Dungeon_Rush_Team_Builder.Properties.Resources.resources
+E:\CPT 185\Dungeon-Rush-Team-Builder\Dungeon-Rush-Team-Builder\obj\Debug\Dungeon-Rush-Team-Builder.csproj.GenerateResource.Cache
+D:\CPT 185\Dungeon-Rush-Team-Builder\Dungeon-Rush-Team-Builder\bin\Debug\Dungeon-Rush-Team-Builder.exe.config
+D:\CPT 185\Dungeon-Rush-Team-Builder\Dungeon-Rush-Team-Builder\obj\Debug\Dungeon-Rush-Team-Builder.exe
+D:\CPT 185\Dungeon-Rush-Team-Builder\Dungeon-Rush-Team-Builder\obj\Debug\Dungeon-Rush-Team-Builder.csprojResolveAssemblyReference.cache
+D:\CPT 185\Dungeon-Rush-Team-Builder\Dungeon-Rush-Team-Builder\obj\Debug\Dungeon_Rush_Team_Builder.Form1.resources
+D:\CPT 185\Dungeon-Rush-Team-Builder\Dungeon-Rush-Team-Builder\obj\Debug\Dungeon_Rush_Team_Builder.Properties.Resources.resources
+D:\CPT 185\Dungeon-Rush-Team-Builder\Dungeon-Rush-Team-Builder\obj\Debug\Dungeon-Rush-Team-Builder.csproj.GenerateResource.Cache
+D:\CPT 185\Dungeon-Rush-Team-Builder\Dungeon-Rush-Team-Builder\bin\Debug\Creature Database.accdb
+D:\CPT 185\Dungeon-Rush-Team-Builder\Dungeon-Rush-Team-Builder\bin\Debug\Dungeon-Rush-Team-Builder.exe
+D:\CPT 185\Dungeon-Rush-Team-Builder\Dungeon-Rush-Team-Builder\bin\Debug\Dungeon-Rush-Team-Builder.pdb
+D:\CPT 185\Dungeon-Rush-Team-Builder\Dungeon-Rush-Team-Builder\obj\Debug\Dungeon-Rush-Team-Builder.pdb
+D:\Save\School\CPT 185\Dungeon-Rush-Team-Builder-Method\Dungeon-Rush-Team-Builder\bin\Debug\Dungeon-Rush-Team-Builder.exe.config
+D:\Save\School\CPT 185\Dungeon-Rush-Team-Builder-Method\Dungeon-Rush-Team-Builder\obj\Debug\Dungeon-Rush-Team-Builder.exe
+D:\Save\School\CPT 185\Dungeon-Rush-Team-Builder-Method\Dungeon-Rush-Team-Builder\obj\Debug\Dungeon-Rush-Team-Builder.pdb
+D:\Save\School\CPT 185\Dungeon-Rush-Team-Builder-Method\Dungeon-Rush-Team-Builder\bin\Debug\Creature Database.accdb
+D:\Save\School\CPT 185\Dungeon-Rush-Team-Builder-Method\Dungeon-Rush-Team-Builder\bin\Debug\Dungeon-Rush-Team-Builder.exe
+D:\Save\School\CPT 185\Dungeon-Rush-Team-Builder-Method\Dungeon-Rush-Team-Builder\bin\Debug\Dungeon-Rush-Team-Builder.pdb
+D:\Save\School\CPT 185\Dungeon-Rush-Team-Builder-Method\Dungeon-Rush-Team-Builder\obj\Debug\Dungeon_Rush_Team_Builder.Form1.resources
+D:\Save\School\CPT 185\Dungeon-Rush-Team-Builder-Method\Dungeon-Rush-Team-Builder\obj\Debug\Dungeon_Rush_Team_Builder.Properties.Resources.resources
+D:\Save\School\CPT 185\Dungeon-Rush-Team-Builder-Method\Dungeon-Rush-Team-Builder\obj\Debug\Dungeon-Rush-Team-Builder.csproj.GenerateResource.Cache
+D:\Save\School\CPT 185\Dungeon-Rush-Team-Builder-Method\Dungeon-Rush-Team-Builder\obj\Debug\Dungeon-Rush-Team-Builder.csprojResolveAssemblyReference.cache
